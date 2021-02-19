@@ -5,3 +5,4 @@
 | git clone `<url>`                           | Clone a new git to local machine                            |
 | git branch status                           | List all branch status                                      |
 | git checkout -b `<branch-name>`             | Checkout & create new branch from standing branch           |
+| git checkout -b `<local branch-name>` `origin/<remote branch name>`            | Checkout & create new branch from origin remote branch           |
