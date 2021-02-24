@@ -8,3 +8,5 @@
 | git checkout -b `<local branch-name>` `origin/<remote branch name>`            | Checkout & create new branch from origin remote branch           |
 | git push -d `<remote_name> <branch_name>` | Push changes to remote branch | 
 | git branch -d `<branch_name>` | Delete a branch | 
+| git branch -vv | See all verbose and upstream for all branches |
+| git branch --set-upstream-to `origin/<branch>` | Set upstream to remote branch from local standing branch |
