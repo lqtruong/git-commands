@@ -10,3 +10,4 @@
 | git branch -d `<branch_name>` | Delete a branch | 
 | git branch -vv | See all verbose and upstream for all branches |
 | git branch --set-upstream-to `origin/<branch>` | Set upstream to remote branch from local standing branch |
+| git remote add origin `<git url>` | Add remote git into local | 
